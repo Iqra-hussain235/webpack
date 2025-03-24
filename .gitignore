@@ -16,8 +16,8 @@
 .DS_Store
 *.log
 .idea
-.vscode
 .cache
 .eslintcache
 .cspellcache
 package-lock.json
+config.bat
